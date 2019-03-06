@@ -6,7 +6,7 @@ class Genre
     @genre = genre
   end
 
-  def name
+  def name(name)
     @name
   end
 
