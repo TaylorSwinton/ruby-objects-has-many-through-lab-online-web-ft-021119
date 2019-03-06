@@ -7,7 +7,7 @@ class Genre
   end
 
   def name
-
+    @name
   end
 
 
