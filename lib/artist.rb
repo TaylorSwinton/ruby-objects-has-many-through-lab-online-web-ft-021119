@@ -5,6 +5,7 @@ class Artist
 
   def initialize
 
+    @all << self
   end
 
 end
