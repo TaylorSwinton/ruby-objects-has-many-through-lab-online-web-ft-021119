@@ -8,6 +8,10 @@ class Genre
     @@all << self
   end
 
+  def name
+    @genre_name
+  end
+
   def self.all
     @@all
   end
